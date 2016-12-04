@@ -1,0 +1,29 @@
+
+Refernce:
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+open files in atom
+
+Interesting directories:
+  - content/post/chapter*
+  - static/music/*
+  - static/chap*/pictureX.jpg
+
+
+To start server for testing:
+  hugo server -w
+And open locally using url:
+  http://localhost:1313/comic/
+
+To add a new chapter:
+  hugo new post/chapterX.md
+
+To publish changes to website:
+hugo && rsync -avz --delete -e ssh public/* potofjoy.com:potofjoy.com/comic/
+
+Public web page:
+http://potofjoy.com/comic/
+
+Github repo:
+https://github.com/flavio-fernandes/izabela-comic
+
