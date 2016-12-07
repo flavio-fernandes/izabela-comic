@@ -7,6 +7,7 @@ music = "100knights.mp3"
 +++
 
 {{< figure src="/comic/chap2/C2P1.png" >}}
+{{< figure src="/comic/chap2/C2P1.5.png" >}}
 {{< figure src="/comic/chap2/C2P2.png" >}}
 {{< figure src="/comic/chap2/C2P3.png" >}}
 {{< figure src="/comic/chap2/C2P4.png" >}}

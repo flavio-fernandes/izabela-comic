@@ -2,7 +2,7 @@
 title = "Chapter 3"
 name = "Rising"
 date = "2016-11-03T13:19:06-05:00"
-music = "heroes.mp3"
+music = "nogame.mp3"
 
 +++
 
@@ -23,3 +23,9 @@ music = "heroes.mp3"
 {{< figure src="/comic/chap3/C3P15.png" >}}
 {{< figure src="/comic/chap3/C3P16.png" >}}
 {{< figure src="/comic/chap3/C3P17.png" >}}
+{{< figure src="/comic/chap3/C3P18.png" >}}
+{{< figure src="/comic/chap3/C3P19.png" >}}
+{{< figure src="/comic/chap3/C3P20.png" >}}
+{{< figure src="/comic/chap3/C3P21.png" >}}
+{{< figure src="/comic/chap3/C3P22.png" >}}
+{{< figure src="/comic/chap3/C3P23.png" >}}
